@@ -41,6 +41,7 @@
 | ↳                | 在任意 github 链接**前面**加上 kk，也就是 kkgithub.com，[[示例](https://kkgithub.com/runningcheese/RunningCheese-Firefox)] |
 | ↳                | 将任意 github 链接**前面的** [https://github.com](https://github.com) 替换为 [https://hub.nuaa.cf](https://hub.nuaa.cf)，当前仅允许git clone使用，[[示例](https://hub.nuaa.cf/runningcheese/RunningCheese-Firefox)] |
 | GitHub 下载      | 在 github 下载链接前面加上 [https://mirror.ghproxy.com](https://mirror.ghproxy.com)，[[示例](https://mirror.ghproxy.com/https://github.com/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg)] |
+| ↳                | 将 github 下载链接**前面的** [https://github.com](https://github.com) 替换为 [https://hub.nuaa.cf](https://hub.nuaa.cf)，[[示例](https://hub.nuaa.cf/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg)] |
 | GitHub 文件夹    | [项目地址](https://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html)，解决 GitHub 只能下载整个项目的问题。 |
 | GitHub CDN       | [https://gcore.jsdelivr.net](https://gcore.jsdelivr.net)，180ms 延迟，海外服务器，有缓存。[[示列](https://gcore.jsdelivr.net/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
 | ↳                | [https://cdn.jsdelivr.net](https://cdn.jsdelivr.net)，180ms 延迟，海外服务器，有缓存。[[示列](https://cdn.jsdelivr.net/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
